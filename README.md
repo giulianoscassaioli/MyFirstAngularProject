@@ -1,6 +1,11 @@
 # Impiegatoapp
+This is my first Angular Project. Here is the Front-End developed with Angular.
+Back-End with Spring Boot coming.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
+
+
 
 ## Development server
 
